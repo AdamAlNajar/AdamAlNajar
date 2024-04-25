@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a Simple Java game
-- 🌱 I’m currently learning Zig
+- 🌱 I’m currently learning Rust
 - 📫 Send me a email - Adam.alnajar.10@gmail.com
 - 😎 I specialize in building Games with Unity & C#, Building apps & websites with Haxe and Java and analysing code 
 
