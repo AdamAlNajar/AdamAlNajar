@@ -2,9 +2,7 @@
 - 🔭 I’m currently working on a Simple Java game
 - 🌱 I’m currently learning C++ & GO!
 - 📫 Send me a email - Adam.alnajar.10@gmail.com
-- 😎 I specialize in building Games with Unity & C#,
-- Simple systems in python
-- and a Tiny bit of Haxe..
+- 😎 I specialize in building Games with Unity & C#, Simple python systems, and a very small ammount of haxe
 
 ## In this Repo, i will :
  - Post All projects that i abandoned / projects that didnt make the cut
