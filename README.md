@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Simple Java game
-- 🌱 I’m currently learning C++ & Haskell!
+- 🔭 I’m currently working on a GUI App with C++
+- 🌱 I’m currently learning C++
 - 📫 Send me a email - Adam.alnajar.10@gmail.com
 - 😎 I specialize in building Games with Unity & C#, Simple python systems, and a very small ammount of haxe
 
