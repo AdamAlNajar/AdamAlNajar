@@ -1,4 +1,3 @@
-# adam al najar
 - https://adamalnajar.github.io
 ## In this Repo, i will :
  - Post All projects that i abandoned / projects that didnt make the cut
