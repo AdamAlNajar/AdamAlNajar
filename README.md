@@ -1,4 +1,4 @@
-- https://adamalnajar.github.io
+
 - Some of you may have noticed that a lot of projects have dissappeared, This is because i deleted them
 They were deleted to make my profile look less cluttered.
 
