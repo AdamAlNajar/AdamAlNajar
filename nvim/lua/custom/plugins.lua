@@ -2,7 +2,11 @@ local plugins = {
   {
     "rcarriga/nvim-dap-ui",
     event = "VeryLazy",
-    dependencies = "mfussenegger/nvim-dap",
+    dependencies = {
+      "mfussenegger/nvim-dap",
+      "nvim-neotest/nvim-neo",
+    },
+      
     config = function()
       local dap = require("dap")
       local dapui = require("dapui")
