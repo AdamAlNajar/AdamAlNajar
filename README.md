@@ -1,8 +1,13 @@
+# Welcome to My Repository!
 
-- Some of you may have noticed that a lot of projects have dissappeared, This is because i deleted them
-They were deleted to make my profile look less cluttered.
+Hello! I’m Adam, a passionate developer working on games and creative projects. This repository is where I share my journey—whether it's abandoned projects, updates, or future ideas. For more about my work, check out my [website](https://adamalnajar.pages.dev).
 
-## In this Repo, i will :
- - Post All projects that i abandoned / projects that didnt make the cut
- - Give Some Updates On My Games / Projects
- - And More when i figure out what i can do with this
+## About Me:
+- **Name**: [Adam]
+- **Age**: [15]
+- **Location**: [UAE]
+
+## What’s Inside:
+- **Project Updates**: Latest news and progress on my ongoing games and projects.
+- **Experiments & Resources**: Fun experiments and useful code snippets I’ve worked on.
+- **Future Plans**: Expect more game releases and collaboration opportunities soon!
