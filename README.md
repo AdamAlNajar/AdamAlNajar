@@ -5,7 +5,7 @@ Hello! I’m Adam, a passionate developer working on games and creative projects
 ## About Me:
 - **Name**: Adam
 - **Age**: 15
-- **Location**: Al Zarqa, JO
+- **Location**: UAE, SHJ
 
 ## What’s Inside:
 - **Project Updates**: Latest news and progress on my ongoing games and projects.
