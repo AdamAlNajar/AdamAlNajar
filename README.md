@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a 15-year-old developer based in the UAE, passionate about creating interactive experiences across games and mobile apps. I work with:
+I'm a 16-year-old developer based in the UAE, passionate about creating interactive experiences across games and mobile apps. I work with:
 
 - **Game Engines**: Unity, Godot, HaxeFlixel, Ursina
 - **Mobile & Backend**: Flutter & Firebase
@@ -25,7 +25,7 @@ I'm a 15-year-old developer based in the UAE, passionate about creating interact
 ---
 
 ## 🛠️ Tech Toolbox
-Unity • Godot • HaxeFlixel • Ursina
+Unity • Godot • HaxeFlixel • Ursina  • Currently learning UE 4
 Flutter • Firebase • Java • C#
 
 
