@@ -1,16 +1,17 @@
 # 👋 Hello, I'm Adam Al Najar
 
-**Game Developer · App Builder · Creative Technologist**
+**Game Developer · App Builder · Website Builder / Fullstack  ·Creative Technologist**
 
 ---
 
 ## 🚀 About Me
 
-I'm a 16-year-old developer based in the UAE, passionate about creating interactive experiences across games and mobile apps. I work with:
+I'm a 16-year-old developer based in the UAE, passionate about creating interactive experiences across games and mobile apps and currently learning Web Development. I work with:
 
 - **Game Engines**: Unity, Godot, HaxeFlixel, Ursina
 - **Mobile & Backend**: Flutter & Firebase
-- **Languages**: C#, Java, and more
+- **Languages**: C#, Java, Learning ABAP and more
+- **Web Development** : Learning React and Node.js
 
 ---
 
@@ -18,17 +19,16 @@ I'm a 16-year-old developer based in the UAE, passionate about creating interact
 
 | Project | Tech Stack | Status |
 |---------|------------|--------|
-| **Multiplayer Game** | Unity, C#, Networking | ✅ Playable |
-| **2D Game** | HaxeFlixel | ✅ Released |
-| **Mobile App** | Flutter, Firebase | 🚧 In Development |
+| **Cola Battlegrounds ( Can be found on my github page )** | Unity, C#, Networking | ✅ Playable |
+| **Cats ( Can be found on my github page)** | HaxeFlixel | ✅ Released |
+| **MedCircle** | Flutter, Firebase | 🚧 In Development |
+| **RiftRot** | Unreal Engine 4.27, Blueprints and C++, EOS | 🚧 In Development |
 
 ---
 
 ## 🛠️ Tech Toolbox
-Unity • Godot • HaxeFlixel • Ursina  • Currently learning UE 4
-Flutter • Firebase • Java • C#
-
-
+Unity • Godot • HaxeFlixel • Ursina  • Currently learning UE 4 •
+Flutter • Firebase • Java • C# • Currently learning React • Currently Learning ABAP • Currently Learning Node.js • Currently Learning EOS
 
 ---
 
