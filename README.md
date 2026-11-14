@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Adam Al Najar
 
-**Game Developer · App Builder · Website Builder / Fullstack  ·Creative Technologist**
+**Game Developer · App Builder · Website Builder / Fullstack  · Robotics · Microcontrollers ESP32/8266/Arduino**
 
 ---
 
