@@ -12,6 +12,7 @@ I'm a 16-year-old developer based in the UAE, passionate about creating interact
 - **Mobile & Backend**: Flutter & Firebase
 - **Languages**: C#, Java, Learning ABAP and more
 - **Web Development** : Learning React and Node.js
+- **Microcontrollers Programming** : Proficient in Arduino and ESP32
 
 ---
 
@@ -23,12 +24,16 @@ I'm a 16-year-old developer based in the UAE, passionate about creating interact
 | **Cats ( Can be found on my github page)** | HaxeFlixel | ✅ Released |
 | **MedCircle** | Flutter, Firebase | 🚧 In Development |
 | **RiftRot** | Unreal Engine 4.27, Blueprints and C++, EOS | 🚧 In Development |
-
+| **Smart ATM / Safe (Can be found on my page)** | ESP32, PlatformIO | 🚧 In Development |
+| **Solidscape Contracting Website (Code can be found on my page)** | HTML,CSS,JS | 🚧 In Development |
+| **Timelock** | Windows Powershell Script | ✅ Released |
+| **APaint** | Java Spring | Dropped from development, Looking for maintainers |
 ---
 
 ## 🛠️ Tech Toolbox
 Unity • Godot • HaxeFlixel • Ursina  • Currently learning UE 4 •
-Flutter • Firebase • Java • C# • Currently learning React • Currently Learning ABAP • Currently Learning Node.js • Currently Learning EOS
+Flutter • Firebase • Java • C# • Currently learning React • Currently Learning ABAP • Currently Learning Node.js • Currently Learning EOS • Proficient in AI 
+• Learning ML with tensorflow
 
 ---
 
