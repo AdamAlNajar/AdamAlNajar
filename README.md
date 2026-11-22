@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Adam Al Najar
 
-**Game Developer · App Builder · Website Builder / Fullstack  · Robotics · Microcontrollers ESP32/8266/Arduino**
+**Game Developer · App Builder · Website Builder / Fullstack  · Robotics · Microcontrollers ESP32/8266/Arduino · AI/ML**
 
 ---
 
 ## 🚀 About Me
 
-I'm a 16-year-old developer based in the UAE, passionate about creating interactive experiences across games and mobile apps and currently learning Web Development. I work with:
+I'm a developer based in the UAE, passionate about creating interactive experiences across games and mobile apps and currently learning Web Development. I work with:
 
 - **Game Engines**: Unity, Godot, HaxeFlixel, Ursina
 - **Mobile & Backend**: Flutter & Firebase
